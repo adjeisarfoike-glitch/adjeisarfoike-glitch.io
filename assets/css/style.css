@@ -1092,3 +1092,17 @@ textarea.contact-input {
   .footer-list { margin-inline: 0; }
 
 }
+
+/* Footer cleanup & spacing */
+.footer {
+  margin-top: 4rem;
+  background: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.footer .container {
+  background: none;
+  box-shadow: none;
+}
+
